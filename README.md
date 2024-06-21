@@ -5,10 +5,11 @@
 
 # some screen shots
 
-- ![Home Page](assets/images/home.png)
-- ![Cart Page](assets/images/cart.png)
-- ![Food Page](assets/images/food.png)
-- ![Recomended Page](assets/images/recfood.png)
+<img src="assets/images/home.png" alt="Home Page" width="500"/>
+<img src="assets/images/cart.png" alt="Cart Page" width="500"/>
+<img src="assets/images/food.png" alt="Food Page" width="500"/>
+<img src="assets/images/recfood.png" alt="Recomended food Page" width="500"/>
+
 
 A new Flutter project.
 
