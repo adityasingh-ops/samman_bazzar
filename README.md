@@ -5,10 +5,10 @@
 
 # some screen shots
 
-- [Home Page](https://drive.google.com/file/d/11MvF1tVd5FjbTS2keapGQtnh8olgJUBE/view?usp=sharing)
-- ![Cart Page](https://drive.google.com/file/d/1wFAYpOITtADXZV8o6U6xLJhTyBP47iDF/view?usp=sharing)
-- ![Food Page](https://drive.google.com/file/d/1EBNbxzF-nk96IJMM7H9CHnrk6_5Th6QE/view?usp=sharing)
-- ![Recomended Page](https://drive.google.com/file/d/17h2Phfk1EHOMSHawvT-ZVx3iif29m_2X/view?usp=sharing)
+- ![Home Page](assets/images/home.png)
+- ![Cart Page](assets/images/cart.png)
+- ![Food Page](assets/images/food.png)
+- ![Recomended Page](assets/images/recfood.png)
 
 A new Flutter project.
 
